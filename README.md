@@ -4,6 +4,10 @@ This package allows [node_redis](https://github.com/NodeRedis/node_redis) (2.8+)
 
 To use this module, you will need Redis 4.0 or higher and the rejson module installed.
 
+## Install
+```
+npm install redis-rejson
+```
 ## Usage
 
 ```
